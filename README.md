@@ -27,6 +27,6 @@ correctly this perceptron made it to 92% or 93% accuracy. By "pre-weighting" the
 The cool thing is, you can really use this node for any data points which have 16 bit inputs. You can even "layer" this
 with several other nodes and create an actual network to recognize progressively more complex objects.
 
-To compile and run with the provided sample data, please check the wiki.
+To compile and run... learn C it's not *that* hard.
 
 ![Perceptron Screenshot](https://github.com/amnolan/artificial_intelligence_neural_node_v01/raw/master/perceptron_screenshot.png?)
