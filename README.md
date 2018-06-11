@@ -5,7 +5,7 @@ This is a project I did in college years ago which I very much enjoyed. It is an
 
 # disclaimer
 
-I understand that the code is very procedural. This is intentional and in a world of "OOP is the best," it's sort of silly but people seem to get flustered when they see "non-OOP" code. This was my first ever program in C and the subject matter was more about getting the AI perceptron to work, than anything else.
+I understand that the code is very procedural. This is intentional and in a world of "OOP is the best," it's sort of silly but people seem to get flustered when they see "non-OOP" code. Especially new developers who have been drinking code boot camp Koolaid. This was my first ever program in C and the subject matter was more about getting the AI perceptron to work, than anything else.
 
 I did consider "decomposing" the logic into functions (but why?) to make the code neater.Very few people probably go back to their college projects and rework them. After all, developers love trying new and exciting things. C doesn't fit into that category.
 
