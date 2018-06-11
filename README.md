@@ -1,8 +1,13 @@
 # artificial_intelligence_neural_node
 Artificial Intelligence Neural Node
 
-This is a project I did in college which I very much enjoyed. It is an aritifical intelligence neural node (perceptron) which
-follows the traditional formula for progressively improving the perceptron's guess on what the correct response should be.
+This is a project I did in college years ago which I very much enjoyed. It is an aritifical intelligence neural node (perceptron) which follows the traditional formula for progressively improving the perceptron's guess on what the correct response should be.
+
+# disclaimer
+
+I understand that the code is very procedural. This is intentional and in a world of "OOP" is the best it's sort of silly but people seem to get flustered when they see "non-OOP" code. This was my first ever program in C and the subject matter was more about getting the AI perceptron to work, than anything else.
+
+# how it works
 
 At a high level, the way it works is you give the perceptron a piece of data, it outputs "True" or "False", then you (or
 some data set) gives it a "True" or "False" to answer whether the "guess" of the perceptron is correct. If it is correct, you
