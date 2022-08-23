@@ -18,7 +18,7 @@ We are training the perceptron to recognize upper case letters versus lower case
 
 The cool thing is, you can really use this node for any data points which have 16 bit inputs, it doesn't have to be for ASCII. You can even "layer" this with several other nodes and create an actual network to recognize progressively more complex objects.
 
-To compile and run: Read about compiling a C program, this should be simple as it's a one-file program. Assuming you're using GCC:
+To compile and run: Assuming you're using GCC:
     
     #compile and build the executable on a *nix machine, for windows it should be the same, except the prompt of $ becomes > 
     $gcc -o artificial_neural_node.exe artificial_neural_node.c
