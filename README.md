@@ -3,6 +3,8 @@ Artificial Intelligence Neural Node
 
 This is a project I did in college years ago which I very much enjoyed. It is an aritifical intelligence neural node (perceptron) which follows the traditional formula for progressively improving the perceptron's guess on what the correct response should be.
 
+DISCLAIMER: This was my first EVER code written in C. I understand it's not following a lot of conventions and isn't the cleanest implementation. This was from 11 years ago. Thanks.
+
 # how it works
 
 At a high level, the way it works is you give the perceptron a piece of data, it outputs "True" or "False", then you (or
